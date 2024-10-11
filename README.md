@@ -1,4 +1,4 @@
-# project3
+![image](https://github.com/user-attachments/assets/4388abc2-5311-46c1-b97c-a14b241fe402)# project3
 # Team Project Ideas
 
 **StudyBloom** - 함께 피어나는 지식의 정원
@@ -39,7 +39,9 @@ Có chức năng tìm kiếm phòng học theo tên hoặc hagtag
 
 백엔드 기술스택:
 
-![backendskill.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ceb421b-cea9-4af5-afc1-3e3e9d43b7ae/c96fd2e0-e106-4e71-9842-349143ee935a/backendskill.png)
+
+![backendskill.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ceb421b-cea9-4af5-afc1-3e3e9d43b7ae/c96fd2e0-e106-4e71-9842-349143ee935a/backendskill.png) 
+
 
 프론트 기술스택:
 
