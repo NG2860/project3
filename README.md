@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4388abc2-5311-46c1-b97c-a14b241fe402)# project3
+# project3
 # Team Project Ideas
 
 **StudyBloom** - 함께 피어나는 지식의 정원
@@ -39,14 +39,15 @@ Có chức năng tìm kiếm phòng học theo tên hoặc hagtag
 
 백엔드 기술스택:
 
-
 ![backendskill.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ceb421b-cea9-4af5-afc1-3e3e9d43b7ae/c96fd2e0-e106-4e71-9842-349143ee935a/backendskill.png) 
+![backendskill](https://github.com/user-attachments/assets/c8014ac6-3401-4d3a-a6cc-7dbd9f546d4e)
 
 
 프론트 기술스택:
-
+![image](https://github.com/user-attachments/assets/4388abc2-5311-46c1-b97c-a14b241fe402)
 ![fontend.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ceb421b-cea9-4af5-afc1-3e3e9d43b7ae/7668d706-c139-458f-aa2a-192fba506d5b/c46946aa-0836-47d3-8146-02ab39ebe9bc.png)
 
 협업 툴:
 
 ![협업툴.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/2ceb421b-cea9-4af5-afc1-3e3e9d43b7ae/0d15284c-f8ff-4bf2-a2e8-36a12c73c223/1e23bc26-247d-4d48-867d-c80e8dc3b61d.png)
+![협업툴](https://github.com/user-attachments/assets/bca39e29-01b7-4bc5-bace-ec252f9119a1)
